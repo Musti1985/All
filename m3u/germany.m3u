@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ZDF.de" tvg-logo="zdf.png",TEST
+https://www.youtube.com/watch?v=hIBO_FX1iQM
 
 #EXTINF:-1 tvg-id="ZDF.de" tvg-logo="zdf.png",ZDF
 http://streaming-hub.com/tv/i/zdf_1@97483/index_1300_av-b.m3u8?sd=10&rebase=on
