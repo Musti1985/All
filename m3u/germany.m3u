@@ -1,32 +1,4 @@
-﻿#EXTM3U
-#EXTINF:-1,[COLOR blue][I][B]--- 05-07-2015 ---[/B][/I][/COLOR]
-#EXTINF:-1, [COLOR green] --REDENEOBUX.COM 05-07-2015--[/COLOR]
-
-
-#EXTINF:-1,[COLOR yellow]--- Deutsch-Kanäle ---[/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1 tvg-id="SF1.ch" tvg-logo="sf1.png",SRF 1
-http://streaming-hub.com/tv/i/sf1_1@97474/index_1300_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-id="SF2.ch" tvg-logo="sf2.png",SRF 2
-http://streaming-hub.com/tv/i/sf2_1@97475/index_1300_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-id="SRTL.de" tvg-logo="superrtl.png",SUPER RTL
-http://streaming-hub.com/tv/i/superrtl_1@97463/index_1300_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-id="disneychannel.de" tvg-logo="disneychannel.png",DISNEY CHANNEL
-http://pebbles104-lh.akamaihd.net/i/disney_channel_de_1@97396/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
-
-
-#EXTINF:-1 tvg-id="AnixeHD.de" tvg-logo="anixesd.png",ANIXE
-http://video1.anixehd.tv:8080/Apple/wifistream.m3u8|X-Forwarded-For=91.63.136.21
-
-#EXTINF:-1 tvg-id="Kika.de" tvg-logo="kika.png",KIKA
-http://streaming-hub.com/tv/i/kika_1@97487/index_1300_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-logo="nick.png",NICKELODEON
-http://streaming-hub.com/tv/i/nickcc_1@97455/index_1300_av-b.m3u8?sd=10&rebase=on
+#EXTM3U
 
 #EXTINF:-1 tvg-id="ZDF.de" tvg-logo="zdf.png",ZDF
 http://streaming-hub.com/tv/i/zdf_1@97483/index_1300_av-b.m3u8?sd=10&rebase=on
@@ -46,8 +18,35 @@ http://streaming-hub.com/tv/i/prosieben_1@97456/index_1300_av-b.m3u8?sd=10&rebas
 #EXTINF:-1,ARD 
 http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
 
-#EXTINF:-1,ALEX TV 1024*576
-http://alex-stream.rosebud-media.de/live/alexlivetv.smil/chunklist_w629559966_b1200000_slGER.m3u8
+#EXTINF:-1 tvg-id="SF1.ch" tvg-logo="sf1.png",SRF 1
+http://streaming-hub.com/tv/i/sf1_1@97474/index_1300_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="SF2.ch" tvg-logo="sf2.png",SRF 2
+http://streaming-hub.com/tv/i/sf2_1@97475/index_1300_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="SRTL.de" tvg-logo="superrtl.png",SUPER RTL
+http://streaming-hub.com/tv/i/superrtl_1@97463/index_1300_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-logo="disneychannel.png",DISNEY CHANNEL
+http://pebbles104-lh.akamaihd.net/i/disney_channel_de_1@97396/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+
+#EXTINF:-1,ORF Zwei (Austria)
+http://apasfiisl.apa.at/ipad/orf2_q6a/orf.sdp/playlist.m3u8
+
+#EXTINF:-1,ORF Drei (Austria)
+http://apasfiisl.apa.at/ipad/orf3_q6a/orf.sdp/playlist.m3u8
+
+#EXTINF:-1,ORF Sport + (Austria)
+http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AnixeHD.de" tvg-logo="anixesd.png",ANIXE
+http://video1.anixehd.tv:8080/Apple/wifistream.m3u8|X-Forwarded-For=91.63.136.21
+
+#EXTINF:-1 tvg-id="Kika.de" tvg-logo="kika.png",KIKA
+http://streaming-hub.com/tv/i/kika_1@97487/index_1300_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-logo="nick.png",NICKELODEON
+http://streaming-hub.com/tv/i/nickcc_1@97455/index_1300_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1,ARD 
 http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
@@ -91,14 +90,6 @@ http://edge-h.daf.tmt.de/ios-live/daf-ios-live-livetv.stream/chunklist_w14220584
 #EXTINF:-1,Muenchen TV
 http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_1/chunklist_w1585276943.m3u8
 
-#EXTINF:-1,ORF Zwei (Austria)
-http://apasfiisl.apa.at/ipad/orf2_q6a/orf.sdp/playlist.m3u8
-
-#EXTINF:-1,ORF Drei (Austria)
-http://apasfiisl.apa.at/ipad/orf3_q6a/orf.sdp/playlist.m3u8
-
-#EXTINF:-1,ORF Sport + (Austria)
-http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
 
 #EXTINF:-1, Telebarn
 http://rtmp.infomaniak.ch/livecast/barntele/media_w2076947800_2120.ts
@@ -235,14 +226,6 @@ http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
 #EXTINF:-1,Deutsche Welle (U.S.A)
 http://www.metafilegenerator.de/DWelle/tv-northamerica/ios/master.m3u8
 
-
-
-
-
-
-#EXTINF:-1,[COLOR yellow]--- Sports ----[/COLOR]
-http://0.0.0.0:1234
-
 #EXTINF:-1, Eurosport
 http://streaming-hub.com/tv/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
 
@@ -278,6 +261,3 @@ rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp
 
 #EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 7HQ GERMANY
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
-
-#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 7HD GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_800
