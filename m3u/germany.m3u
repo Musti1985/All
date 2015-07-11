@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ZDF.de" tvg-logo="zdf.png",ZDFF
+#EXTINF:-1 tvg-id="ZDF.de" tvg-logo="zdf.png",ZDF
 http://streaming-hub.com/tv/i/zdf_1@97483/index_1300_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-id="Sat1.ch" tvg-logo="sat1.png",SAT 1
